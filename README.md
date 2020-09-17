@@ -1,2 +1,5 @@
-# super-super-heroku-bot
-Bot using heroku, 24/7!
+# MowuBot
+A simple discord bot!
+Commands so far: 
+m!ping
+# More commands coming soon!
